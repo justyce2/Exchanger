@@ -1,2 +1,2 @@
 # Exchanger
- E-Currency Exchanger php Script
+ TenderNaira E-Currency Exchanger php Script
